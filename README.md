@@ -1,6 +1,6 @@
 ## Hello
 
-I'm currently doing my bachelors in Computer Science and Engineering at Technical University of Eindhoven. 
+I'm a Bachelor student of Computer Science and Engineering at Technical University of Eindhoven. 
 
-- I'm currently learning Java Swing and Latex.
-- My interests are volleyball, jazz, singing, salsa, and hiking.
+- I'm currently using my knwledge in Java to create wonders.
+- My interests are volleyball, singing, salsa, and camping.
